@@ -1,0 +1,167 @@
+
+
+/* title */
+
+#title
+{
+
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid 
+{
+  padding: 3% 13% 6% 15%;
+}
+
+.navbar 
+{
+  margin-bottom: 1rem;
+}
+
+.title-img
+{
+  width: 40%;
+  position: absolute;
+  top: 13%;
+  right: 5%;
+}
+
+.catchphrase
+{
+
+  font-family: 'Open Sans', sans-serif;          
+  font-size: 5.5rem;
+  padding: 5% 0%;
+}
+
+.finfo
+{
+  font-size: 1.2rem;
+}
+
+
+
+/* features */
+
+#features 
+{
+  position: relative;
+  text-align: center;
+  padding:4% 0% 4%;
+}
+
+.feature-title 
+{
+  margin-top:1rem;
+  font-size: 1.8rem;
+}
+
+.feature-box 
+{
+  padding: 2.5% 4.5% 2.5%;
+}
+
+.icon 
+{
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.icon:hover 
+{
+  color: #454545;
+}
+
+.colored-section
+{
+  background-color: #454545;
+}
+
+
+/* carousel */
+
+
+
+.testimonial-text {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.test-img 
+{
+  width:20%;
+  display: block;
+  margin:0 auto;
+}
+.side
+{
+  font-family: "Ubuntu";
+   margin:1% 0% 5%;
+   color: #fff;
+   text-align:center;
+}
+
+.desc
+{
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;  
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  text-align: center;
+
+}
+
+.carousel-inner
+{
+  padding:5% 0% 5%;
+}
+
+#games
+{
+  margin:1% 2%;
+
+  text-align: center;
+
+}
+
+.cont 
+{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three equal-width columns */
+  grid-gap: 20px; /* Gap between grid items */
+}
+
+.item 
+{
+  overflow: auto;
+  background-color: #f2f2f2;
+  padding: 2%;
+  margin:5% ;
+  
+}
+
+.game
+{
+  font-size: 2rem;
+  font-family: 'Open Sans', sans-serif;      
+  display: block;
+
+}
+
+/*
+  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat-Black";
+  font-family: "Montserrat-Bold";
+  font-family: "Montserrat-Light";
+  font-family: "Ubuntu";
+  font-family: 'Merriweather Sans', sans-serif;
+
+  */
